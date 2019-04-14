@@ -1,0 +1,26 @@
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/bin/Debug/Snake.exe.config
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/bin/Debug/Snake.exe
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/bin/Debug/Snake.pdb
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/obj/Debug/Snake.csprojResolveAssemblyReference.cache
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/obj/Debug/Snake.exe
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/lesson 1/Snake/Snake/obj/Debug/Snake.pdb
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe.config
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/obj/Debug/Snake.exe
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/obj/Debug/Snake.pdb
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/bin/Debug/Snake.pdb
+D:/[Учеба]/2 Курс/2Семестр/ООП/[GeekBrains] Snake/Snake/obj/Debug/Snake.csprojResolveAssemblyReference.cache
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe.config
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.pdb
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.csprojAssemblyReference.cache
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.csproj.CoreCompileInputs.cache
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.exe
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.pdb
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe.config
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.exe
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Debug/Snake.pdb
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.csprojAssemblyReference.cache
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.csproj.CoreCompileInputs.cache
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.exe
+/Users/lawr/Documents/[MAC][Other+MyProgramm]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Debug/Snake.pdb

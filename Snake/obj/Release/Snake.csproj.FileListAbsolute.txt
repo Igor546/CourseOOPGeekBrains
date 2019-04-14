@@ -1,0 +1,5 @@
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Release/Snake.exe.config
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/bin/Release/Snake.exe
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Release/Snake.csproj.CoreCompileInputs.cache
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Release/Snake.exe
+/Users/lawr/Documents/[MAC][Other]     /[Мои программы]/Visual Studio/[GeekBrains] Snake/Snake/obj/Release/Snake.csprojAssemblyReference.cache
